@@ -18,5 +18,5 @@ img {
 footer {
     display: flex;
     text-align: center;
-    align-items: flex-end;
+    align-items: baseline;
 }
