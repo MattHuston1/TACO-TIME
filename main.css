@@ -4,12 +4,7 @@ body {
     background-size: 100% 100%;
     margin: auto;
     background-repeat: no-repeat;
-<<<<<<< HEAD
     font-color: white;
-=======
-    color: powderblue;
-    
->>>>>>> 7f664e55df89a1e3e9b733987c9468f0a9f56c37
 }
 h1 {
     font-family: 'Do Hyeon', sans-serif;
@@ -32,20 +27,7 @@ img {
 footer {
     display: flex;
     text-align: center;
-<<<<<<< HEAD
-    align-items: flex-end;
-}
-p {
-    color: powderblue;
-}
-.characters {
-   flex-direction: column;
-}
-.body {
-    background-image: url("https://starwarsblog.starwars.com/wp-content/uploads/2015/02/LIC_ART_312-2400x1200-794202515203.jpg")
-=======
     align-items: baseline;
-<<<<<<< HEAD
 }
 a.btn-small {
     background-color: powderblue;
@@ -75,7 +57,4 @@ div {
     display: flex;
     justify-content: center;
     padding: 30px;
-=======
->>>>>>> 79b83f065c0da8b413fb1d8719231856e47295c0
->>>>>>> 7f664e55df89a1e3e9b733987c9468f0a9f56c37
 }
