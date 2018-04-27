@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://starwarsblog.starwars.com/wp-content/uploads/2015/02/LIC_ART_312-2400x1200-794202515203.jpg");
+    background-image: url("http://getwallpapers.com/wallpaper/full/7/f/9/510797.jpg");
     background-attachment: fixed;
     background-size: 100% 100%;
     margin: auto;
@@ -10,7 +10,13 @@ h1 {
 }
 nav {
     font-family: 'Do Hyeon', sans-serif;
+    
 }
 img {
     height: 200px;
+}
+footer {
+    display: flex;
+    text-align: center;
+    align-items: flex-end;
 }
