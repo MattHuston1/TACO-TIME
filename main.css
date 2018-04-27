@@ -1,0 +1,16 @@
+.body {
+    background-image: url("https://i.imgur.com/7Kp3zyC.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: auto;
+    background-repeat: no-repeat;
+}
+h1 {
+    font-family: "Starjedi"
+    align-content: center;
+    color: red;
+}
+nav {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
