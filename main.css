@@ -20,6 +20,7 @@ img {
 footer {
     display: flex;
     text-align: center;
+<<<<<<< HEAD
     align-items: flex-end;
 }
 p {
@@ -30,4 +31,7 @@ p {
 }
 .body {
     background-image: url("https://starwarsblog.starwars.com/wp-content/uploads/2015/02/LIC_ART_312-2400x1200-794202515203.jpg")
+=======
+    align-items: baseline;
+>>>>>>> 79b83f065c0da8b413fb1d8719231856e47295c0
 }
