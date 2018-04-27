@@ -4,13 +4,22 @@ body {
     background-size: 100% 100%;
     margin: auto;
     background-repeat: no-repeat;
+    font-color: white;
 }
 h1 {
-    color: red;
-}
-nav {
     font-family: 'Do Hyeon', sans-serif;
-    
+    color: whitesmoke;
+    size: 16px;
+}
+h2, h3 {
+    font-family: 'Do Hyeon', sans-serif;
+    color: whitesmoke;
+    size: 14px;
+}
+nav ul {
+    display: flex;
+    justify-content: center;
+    font-family: 'Do Hyeon', sans-serif; 
 }
 img {
     height: 200px;
@@ -19,4 +28,33 @@ footer {
     display: flex;
     text-align: center;
     align-items: baseline;
+}
+a.btn-small {
+    background-color: powderblue;
+    color: black;
+}
+
+a.btn-small:hover {
+    background-color: white;
+}
+p {
+    font-family: 'Do Hyeon', sans-serif;
+    color: powderblue;
+}
+.profiles-body, aboutMe {
+    color: powderblue;
+}
+.logo {
+    justify-: center;
+}
+li {
+    font-family: 'Do Hyeon', sans-serif;
+}
+button {
+    background-color: powderblue;
+}
+div {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
 }
